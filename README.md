@@ -1,0 +1,2 @@
+# MixedMessageProject CodeCademy
+ JavaScript project
